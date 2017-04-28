@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMTest</string>
+    <string name="data_downloading">Data Downloading...</string>
+    <string name="title_unknown">Title Unknown</string>
+    <string name="author_unknown">Author Unknown</string>
+    <string name="json_url">http://de-coding-test.s3.amazonaws.com/books.json</string>
+</resources>
